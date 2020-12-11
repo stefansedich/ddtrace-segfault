@@ -1,0 +1,2 @@
+ddtrace==0.44.0
+pandas==1.1.5
